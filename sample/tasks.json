@@ -1,0 +1,7 @@
+[
+  {"id":"DEMO-001","title":"Review equipment checklist","due":"2026-10-01","impact":"medium","status":"open"},
+  {"id":"DEMO-002","title":"Inspect sample backup log","due":"2026-10-10","impact":"high","status":"open"},
+  {"id":"DEMO-003","title":"Update supplies list","due":"2026-10-08","impact":"low","status":"open"},
+  {"id":"DEMO-004","title":"Organize reference documents","due":"2026-10-20","impact":"low","status":"open"},
+  {"id":"DEMO-005","title":"Complete fictional inventory review","due":"2026-10-02","impact":"high","status":"done"}
+]
